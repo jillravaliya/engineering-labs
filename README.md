@@ -20,15 +20,16 @@ I created this repo to track my consistent growth as an engineer and to build in
 
 ---
 
+## Labs 
 
-**Day 3** 
-> Dec 25, 2024 - [Day 03 Docker Multi Container App](https://github.com/jillravaliya/day-03-docker-multi-container-app)
+#### **Day 03** — Docker Multi-Container Application  
+> https://github.com/jillravaliya/day-03-docker-multi-container-app
 
-**Day 2** 
-> Dec 23, 2024 - [Day 02 Dockerfile Fundamentals](https://github.com/jillravaliya/day-02-dockerfile-fundamentals)  
+#### **Day 02** — Dockerfile Fundamentals  
+> https://github.com/jillravaliya/day-02-dockerfile-fundamentals
 
-**Day 1** 
-> Dec 21, 2024 - [Day 01 Docker Runtime Fundamentals](https://github.com/jillravaliya/day-01-docker-runtime-fundamentals)  
+#### **Day 01** — Docker Runtime Fundamentals  
+> https://github.com/jillravaliya/day-01-docker-runtime-fundamentals
 
 ---
 
