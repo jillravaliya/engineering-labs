@@ -2,8 +2,6 @@
 
 
 
-<div align="center">
-
 ![Labs](https://img.shields.io/badge/%20Labs-03-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=grey)
 ![Docker](https://img.shields.io/badge/Docker%20-3-1D96E8?style=for-the-badge&logo=docker&logoColor=white&labelColor=grey)
 ![Tech Stack](https://img.shields.io/badge/Tech%20Stack-01-13AA52?style=for-the-badge&logo=buffer&logoColor=white&labelColor=grey)
@@ -11,7 +9,6 @@
 ![Building](https://img.shields.io/badge/Building-Twice%20Weekly-FCC419?style=for-the-badge&logo=codacy&logoColor=white&labelColor=grey)
 ![Last Commit](https://img.shields.io/badge/Last%20Commit-Dec%2025-FC7A35?style=for-the-badge&logo=git&logoColor=white&labelColor=grey)
 
-</div>
 
 
 ---
